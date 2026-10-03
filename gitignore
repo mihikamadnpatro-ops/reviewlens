@@ -1,0 +1,7 @@
+# never upload your keys
+.env
+*.env
+
+# python junk
+__pycache__/
+*.pyc
